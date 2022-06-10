@@ -1,8 +1,6 @@
 
 
 
-commit
-push to git hub
 
 add json server
 add hooks

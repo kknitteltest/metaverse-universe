@@ -8,7 +8,7 @@ import StoryList from './components/StoryList'
 
 function App() {
   return (
-    <div>
+    <div id="top">
     <Header />
     <StoryList />
     <Main/>
